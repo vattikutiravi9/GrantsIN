@@ -80,3 +80,7 @@ Currently, only one endpoint is implemented in this application:
 To run unit tests, use:
 ```bash
 pytest
+```
+
+## System architecture
+The system design and other services used for the application can be found in the SystemDesign.drawio pdf file

@@ -24,7 +24,7 @@ Grants In is a SaaS platform that allows private companies to post grants, and u
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-repo/grantsin.git
+    git clone https://github.com/vattikutiravi9/GrantsIN.git
     cd grantsin
     ```
 
